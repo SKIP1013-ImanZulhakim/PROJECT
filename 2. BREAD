@@ -551,7 +551,6 @@ public class Bread {
 	}
 	
 	public static String showName() {//method
-		String name = null;
 		Scanner scan = new Scanner (System.in);
 		System.out.println("Please enter your name:");
 		name = scan.next();
